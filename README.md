@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel Miquelin 🖐️
 #### 📚 Cursando Engenharia de Software
-#### 🌱 Atualmente estou estudando C
-#### 🔭 Tenho o objetivo de trabalhar com desenvolvimento back-end
+#### 🌱 Atualmente Estou Estudando Rede de Computadores
+
  <hr>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielferreiramiquelin/)
